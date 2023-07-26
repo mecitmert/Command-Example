@@ -1,0 +1,45 @@
+C:\Users\mecit\source\repos\E_Bussiness_Command\bin\Debug\net6.0\E_Bussiness_Command.exe
+C:\Users\mecit\source\repos\E_Bussiness_Command\bin\Debug\net6.0\E_Bussiness_Command.deps.json
+C:\Users\mecit\source\repos\E_Bussiness_Command\bin\Debug\net6.0\E_Bussiness_Command.runtimeconfig.json
+C:\Users\mecit\source\repos\E_Bussiness_Command\bin\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\mecit\source\repos\E_Bussiness_Command\bin\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.csproj.AssemblyReference.cache
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfoInputs.cache
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfo.cs
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.csproj.CoreCompileInputs.cache
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\refint\E_Bussiness_Command.dll
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\E_Bussiness_Command.genruntimeconfig.cache
+C:\Users\mecit\source\repos\E_Bussiness_Command\obj\Debug\net6.0\ref\E_Bussiness_Command.dll
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.exe
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.deps.json
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.runtimeconfig.json
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.csproj.AssemblyReference.cache
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfoInputs.cache
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfo.cs
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.csproj.CoreCompileInputs.cache
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\refint\E_Bussiness_Command.dll
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.genruntimeconfig.cache
+C:\Users\mecit\OneDrive\Masaüstü\E_Bussiness_Command_67\obj\Debug\net6.0\ref\E_Bussiness_Command.dll
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.exe
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.deps.json
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\bin\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.dll
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\refint\E_Bussiness_Command.dll
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.pdb
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\E_Bussiness_Command.genruntimeconfig.cache
+C:\Users\MSI-NB\Desktop\Yazilim Tasarim\E_Bussiness_Command_67\obj\Debug\net6.0\ref\E_Bussiness_Command.dll
